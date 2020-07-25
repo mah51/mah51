@@ -1,10 +1,3 @@
----
-title: mah51
-date: '2020-07-25'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'mah51'
----
 ### Hi there, I'm [Mikerophone!](https://mah51.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
@@ -20,7 +13,7 @@ githubUsername: 'mah51'
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Mikerophone, learning to code...
 
 - 🔭 I’m currently working on a movie rating website [Here](https://github.com/mah51/movie-web)
 - 💬 Ask me about anything [here](https://github.com/mah51/mah51/issues)
