@@ -9,7 +9,7 @@
 
 Hi, I'm Mikerophone, learning to code...
 
-- A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
+- 🕸 A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
 - 💬 Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
 Previous projects:
@@ -22,6 +22,7 @@ Previous projects:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 [![Mikerophone's github stats](https://github-readme-stats.vercel.app/api?username=mah51&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
