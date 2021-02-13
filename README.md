@@ -9,6 +9,8 @@
 
 Hi, I'm Mikerophone, a uni student learning to code...
 
+Current projects:
+
 - 🕸 A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
 - 💬 Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
