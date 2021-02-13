@@ -9,8 +9,13 @@
 
 Hi, I'm Mikerophone, learning to code...
 
-- 🔭 I’m currently working on a movie rating website [here](https://github.com/mah51/movie-web)
+- A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
 - 💬 Ask me about anything [here](https://github.com/mah51/mah51/issues)
+
+Previous projects:
+
+- ✈ The Discord bot: MikeBot - Not hosted currently due to cost.
+- 🔭 movie rating [website](https://github.com/mah51/movie-web), still going strong! 
 
 **Languages and Tools:**  
 
