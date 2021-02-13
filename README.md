@@ -25,10 +25,13 @@ Previous projects:
 
 [![Mikerophone's github stats](https://github-readme-stats.vercel.app/api?username=mah51&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/mah51/WormTracker">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=WormTracker&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 <a href="https://github.com/mah51/movie-web">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=movie-web&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/mah51/mah51.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=mah51.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+
