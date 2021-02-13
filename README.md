@@ -16,7 +16,7 @@ Current projects:
 
 Previous projects:
 
-- ✈ The Discord bot: MikeBot - Not hosted currently due to cost.
+- ✈ The Discord bot: MikeBot - Not hosted currently due to expense.
 - 🔭 movie rating [website](https://github.com/mah51/movie-web), still going strong! 
 
 **Languages and Tools:**  
