@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Mikerophone, a uni student learning to code...
+Hi, I'm a uni student learning to code...
 
 Current projects:
 
