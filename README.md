@@ -1,4 +1,4 @@
-### Hi there, I'm [Mikerophone!](https://mah51.github.io) 👋
+### Hi there, I'm [Michael!](https://mah51.github.io) 👋
 
 <a href="https://discord.gg/UmXUUaA">
   <img align="left" alt="MikeBot's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
