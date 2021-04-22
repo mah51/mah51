@@ -10,14 +10,14 @@
 Hi, I'm a uni student learning to code...
 
 Current projects:
-
-- 🕸 A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
+- 🎬 movie rating [website](https://github.com/mah51/movie-web-typescript), a superior replacement to the old movie-web! 
+- 🚀 Personal [website](https://github.com/mah51/personal-site), to show off some of my projects and maybe start a blog.
 - 💬 Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
 Previous projects:
 
 - ✈ The Discord bot: MikeBot - Not hosted currently due to expense.
-- 🔭 movie rating [website](https://github.com/mah51/movie-web), still going strong! 
+- 🕸 A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
 
 **Languages and Tools:**  
 
@@ -33,8 +33,14 @@ Previous projects:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=WormTracker&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/mah51/movie-web">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=movie-web&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<a href="https://github.com/mah51/personal-site">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=personal-site&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+
+<a href="https://github.com/mah51/movie-web-typescript">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=movie-web-typescript&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 
