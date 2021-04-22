@@ -34,9 +34,11 @@ Previous projects:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=WormTracker&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<br />
+
 
 <a href="https://github.com/mah51/personal-web">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=personal-web&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=personal-web&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <br />
