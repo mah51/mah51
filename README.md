@@ -17,7 +17,7 @@ Current projects:
 Previous projects:
 
 - ✈  The Discord bot: MikeBot - Not hosted currently due to expense.
-- 🕸  A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐)
+- 🕸  A react [website](https://github.com/mah51/WormTracker) dedicated to counting grid squares with worm tracks. (pretty niche 🧐 )
 
 **Languages and Tools:**  
 
