@@ -11,7 +11,7 @@ Hi, I'm a uni student learning to code...
 
 Current projects:
 - 🎬 movie rating [website](https://github.com/mah51/movie-web-typescript), a superior replacement to the old movie-web! 
-- 🚀 Personal [website](https://github.com/mah51/personal-site), to show off some of my projects and maybe start a blog.
+- 🚀 Personal [website](https://github.com/mah51/personal-web), to show off some of my projects and maybe start a blog.
 - 💬 Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
 Previous projects:
@@ -34,8 +34,8 @@ Previous projects:
 </a>
 
 
-<a href="https://github.com/mah51/personal-site">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=personal-site&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/mah51/personal-web">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mah51&repo=personal-web&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 
