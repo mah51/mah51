@@ -1,18 +1,14 @@
 ### Hi there, I'm [Michael!](https://mah51.github.io) 👋
 
-<a href="https://discord.gg/UmXUUaA">
-  <img align="left" alt="MikeBot's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
 <br />
 <br />
 
 Hi, I'm a uni student learning to code...
 
 Current projects:
-- 🎬  Movie rating [website](https://github.com/mah51/movie-web-typescript), a superior replacement to the old movie-web! 
-- 🚀  Personal [website](https://github.com/mah51/personal-web), to show off some of my projects and maybe start a blog.
-- 💬  Ask me about anything [here](https://github.com/mah51/mah51/issues)
+-  Movie rating [website](https://github.com/mah51/movie-web-typescript), a superior replacement to the old movie-web! 
+-  Personal [website](https://github.com/mah51/personal-web), to show off some of my projects and maybe start a blog.
+-  Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
 Previous projects:
 
