@@ -6,9 +6,9 @@
 Hi, I'm a uni student learning to code...
 
 Current projects:
--  ScuffedMDB - movie rating [website](https://github.com/mah51/scuffedmdb), a superior replacement to the old movie-web! 
--  ScuffedMDB Bot! A bot that provides a nice integration with a discord server for the ScuffedMDB website
--  Personal [website](https://github.com/mah51/personal-web), to show off some of my projects and maybe start a blog.
+-  [ScuffedMDB](https://github.com/mah51/scuffedmdb) - movie rating website, a superior replacement to the old movie-web! 
+-  [ScuffedMDB Bot](https://github.com/mah51/scuffedmdb-bot)! A bot that provides a nice integration with a discord server for the ScuffedMDB website
+-  My personal website - [michael-hall.me](https://github.com/mah51/michael-hall.me), to show off some of my projects and maybe start a blog.
 -  Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
 Previous projects:
