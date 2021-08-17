@@ -1,4 +1,4 @@
-### Hi there, I'm [Michael!](https://mah51.github.io) 👋
+### Hi there, I'm [Michael!](https://michael-hall.me) 👋
 
 <br />
 <br />
