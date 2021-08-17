@@ -6,7 +6,8 @@
 Hi, I'm a uni student learning to code...
 
 Current projects:
--  Movie rating [website](https://github.com/mah51/movie-web-typescript), a superior replacement to the old movie-web! 
+-  ScuffedMDB - movie rating [website](https://github.com/mah51/scuffedmdb), a superior replacement to the old movie-web! 
+-  ScuffedMDB Bot! A bot that provides a nice integration with a discord server for the ScuffedMDB website
 -  Personal [website](https://github.com/mah51/personal-web), to show off some of my projects and maybe start a blog.
 -  Ask me about anything [here](https://github.com/mah51/mah51/issues)
 
